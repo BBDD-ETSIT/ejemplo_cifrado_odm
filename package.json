@@ -1,0 +1,12 @@
+{
+  "name": "mongodb-odm-encryption-demo",
+  "version": "1.0.0",
+  "description": "Ejemplo sencillo de cifrado de campos con Mongoose (ODM) y visualización en mongosh.",
+  "main": "ejemplo.js",
+  "scripts": {
+    "start": "node ejemplo.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.5.0"
+  }
+}
